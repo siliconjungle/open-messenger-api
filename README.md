@@ -31,3 +31,6 @@ The way which we associate these user's with individuals identities is through 2
 The API provides endpoints for each application to be able to delete "their" data that is associated with the user. Once all data is deleted from all of the applications which the user is using, the account will be deleted automatically.
 
 On top of this, user's can request with us directly to delete their data and we will do that for them.
+
+## Does my data have to be stored within the API?
+I think for MVP it makes the most sense, but in the long run it would be good to allow user's to have their own buckets (similar to dropbox) which they can select a provider to store their information and then my API communicates with that layer.
