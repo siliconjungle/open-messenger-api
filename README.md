@@ -18,7 +18,7 @@ As a user, you will no longer be confined to using a social platform simply beca
 This should lead to increased competition and force companies to be healthier in the approach to how they build their products to serve their users.
 
 ## Why would anyone integrate the API rather than building a moat around their product?
-Companies like Facebook have no incentive to be using an API like this, however, smaller companies and ones with more niche purposes for how they communicate will gain a network effect from this.
+Large companies have no incentive to be using an API like this, however, smaller companies and ones with more niche purposes for how they communicate will gain a network effect from this.
 
 The hope is that with enough adoption, there will be a rising tide effect that will incentivise more and more people to contribute (similar to the open source code movement) and become part of the ecosystem.
 
